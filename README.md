@@ -1,24 +1,3 @@
-# ST449-project-2021
-
-This is the repository for the course project. Please keep anything project related in this repository.
-
-**Important dates**:
-
-- **Project proposal deadline**: 14th March, 5pm London UK time (fill in the information below by this date)
-- **First notification deadline**: 28th March, 5pm London UK time (approval of project topic or request for revision by this date)
-- **Project topic approval deadline**: 31st March, 5pm London UK time (all project topics must be approved by this date)
-- **Project solution submission deadline**: 30th April, 5pm London UK time
-
-Your first task is the propose your project topic by filling the information requested below.
-
-You are encouraged to propose your course project topic as soon as possible but not later than by the project proposal deadline indicated above. We will try to process your project proposal and provide feedback as soon as possible. In any case, the first feedback from us will not be later than by the first notification deadline indicated above. All project topics must be approved by the project approval deadline indicated above -- the approval will be indicated in the feedback section below.
-
-You will receive feedback for your project topic proposal in the feedback section below of this Markdown file. A project topic proposal may be immediately approved or some revision may be required. The feedback should be limited to a few rounds of interactions (one or two) in order to deal with the workload.
-
----
-
-Please add the following information:
-
 ## Project title:
 
 ### In to the unknown
@@ -85,19 +64,3 @@ However, it is too early to conclude which dataset to use. Hence after careful c
 - <a id='f4'>3</a>: Sercan O. Arik and Tomas Pfister. 2019. TabNet: Attentive Interpretable Tabular
   Learning. (2019).
 
-## Feedback:
-
-- [MV 6 April 2021] Revised proposal approved. I trust your project will have a focus on deep learning / neural network models. You may want to make sure to well explain the methods that you study, especially in relation of _neural network architectures_ and _interpretability_. 
-- [MV, 27 March 2021] Approved. Sounds interesting. You have identified a good set of references. You may want to focus on explaining the underlying methodology used, in particular, for explaining the predictions of a classifier.
-
----
-
-## Candidate project topics:
-
-Here you may find information about some candidate project topics: [Project.md](https://github.com/lse-st449/lectures2021/blob/master/Projects.md).
-
-**Important**: You do not need to take a project topic listed in our list of suggestions -- you are encourged to come up with a project topic proposal of your own, which is not listed in our list.
-
-## Marking criteria:
-
-<img src="https://github.com/lse-st449/lectures2021/blob/main/images/ST449-final-coursework-rubric.png"></img>
